@@ -23,6 +23,76 @@ export class ProjectsComponent {
           href: 'https://vidafullstack.com.br'
         }
       ]
-    }
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: '',
+      title: 'Vida Fullstack',
+      with: '100px',
+      height: '51px',
+      description: '<p> Explore o fascinante mundo do desenvolvimento web blog </p>',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br'
+        }
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: '',
+      title: 'Vida Fullstack',
+      with: '100px',
+      height: '51px',
+      description: '<p> Explore o fascinante mundo do desenvolvimento web blog </p>',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br'
+        }
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: '',
+      title: 'Vida Fullstack',
+      with: '100px',
+      height: '51px',
+      description: '<p> Explore o fascinante mundo do desenvolvimento web blog </p>',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br'
+        }
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: '',
+      title: 'Vida Fullstack',
+      with: '100px',
+      height: '51px',
+      description: '<p> Explore o fascinante mundo do desenvolvimento web blog </p>',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br'
+        }
+      ]
+    },
+    {
+      src: 'assets/img/projects/vfull.png',
+      alt: '',
+      title: 'Vida Fullstack',
+      with: '100px',
+      height: '51px',
+      description: '<p> Explore o fascinante mundo do desenvolvimento web blog </p>',
+      links: [
+        {
+          name: 'Conheça o Blog',
+          href: 'https://vidafullstack.com.br'
+        }
+      ]
+    },
   ]);
 }
